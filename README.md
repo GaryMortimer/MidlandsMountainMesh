@@ -1,2 +1,2 @@
 # MidlandsMountainMesh
-KwaZulu Natal 868 LongFast Meshtastic Mesh stuff
+Mesh enthusiasts in KwaZulu Natal trying to create coverage from the beach to the Berg. 
