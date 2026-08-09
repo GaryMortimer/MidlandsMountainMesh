@@ -1,6 +1,18 @@
 # Midlands Mountain Mesh
 
-Mesh enthusiasts in KwaZulu Natal trying to create coverage from the Beach to the Berg. 
+Mesh enthusiasts in KwaZulu Natal trying to create coverage from the Beach to the Berg.
+
+Check our
+
+## [WiKi}(https://github.com/GaryMortimer/MidlandsMountainMesh/wiki)
+
+### [Latest News](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki/Latest-News)
+
+### [Node Builds](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki/Node-Builds)
+
+### [Node Names and Location](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki/Node-Names-and-Location)
+
+### [Software](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki/Software)
 
 
 ## Projects
