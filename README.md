@@ -4,7 +4,7 @@ Mesh enthusiasts in KwaZulu Natal trying to create coverage from the Beach to th
 
 Check our
 
-## [WiKi}(https://github.com/GaryMortimer/MidlandsMountainMesh/wiki)
+## [WiKi](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki)
 
 ### [Latest News](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki/Latest-News)
 
