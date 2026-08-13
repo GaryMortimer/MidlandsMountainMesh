@@ -32,7 +32,7 @@ Meshtastic offers built-in presets. Below is a comparison of the most common pro
 |---|---|---|---|---|---|---|
 |**Short Range / Fast**|Short Fast|10.94 kbps|7 / 128|4/5|250 kHz|143dB|
 |**Short Range / Slow**|Short Slow|6.25 kbps|8 / 256|4/5|250 kHz|145.5dB|
-|**Medium Range / Fast/|Medium Fast|3.52 kbps|9 / 512|4/5|250 kHz|148dB|
+|**Medium Range / Fast**|Medium Fast|3.52 kbps|9 / 512|4/5|250 kHz|148dB|
 |**Medium Range / Slow**|Medium Slow|1.95 kbps|10 / 1024|4/5|250 kHz|150.5dB|
 |**Long Range / Turbo**|Long Turbo|1.34 kbps|11 / 2048|4/8|500 kHz|150dB|
 |**Long Range / Fast**|Long Fast|1.07 kbps|11 / 2048|4/5|250 kHz|153dB|
