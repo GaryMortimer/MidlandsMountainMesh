@@ -20,3 +20,9 @@ Check our
 ### Solar node by Bruce
 
 [A XIAO nRF52840 & Wio-SX1262 solar node build by Bruce ](SolaNodeBruce/README.md)
+
+## LoRa
+
+### [SNR](LoRa/SNR.md)
+
+Understanding SNR in a Meshtastic Mesh
