@@ -26,3 +26,7 @@ Check our
 ### [SNR](Lora/SNR.md)
 
 Understanding SNR in a Meshtastic Mesh
+
+### [SF](Lora/SF.md)
+
+Understanding SF and channel presets in a Meshtastic Mesh
