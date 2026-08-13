@@ -23,6 +23,6 @@ Check our
 
 ## LoRa
 
-### [SNR](LoRa/SNR.md)
+### [SNR](Lora/SNR.md)
 
 Understanding SNR in a Meshtastic Mesh
