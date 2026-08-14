@@ -21,6 +21,10 @@ Check our
 
 [A XIAO nRF52840 & Wio-SX1262 solar node build by Bruce ](SolaNodeBruce/README.md)
 
+### XIAO nRF52840 & Wio-SX1262 Meshtastic with BMP280
+
+[XIAO nRF52840 & Wio-SX1262 i2C BMP280](XIAO_I2C/Xiao_nRF52840_BMP280.md)
+
 ## LoRa
 
 ### [SNR](Lora/SNR.md)
