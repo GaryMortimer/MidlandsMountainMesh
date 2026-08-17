@@ -106,3 +106,9 @@ Your node will now broadcast environmental metrics over the mesh network every 3
     <img src="images/device.jpg" alt="Device" width="30%">
 
 </p>
+
+<p align="center">
+    <img src="images/TelemetryApp1.png" alt="Device Telemetry Live Data" width="30%">
+    <img src="images/TelemetryApp2.png" alt="Device History Data" width="30%">
+
+</p>
