@@ -14,7 +14,7 @@ Check our
 
 ### [Software](https://github.com/GaryMortimer/MidlandsMountainMesh/wiki/Software)
 
-~~~~~~~~~~~
+-------------
 
 ## Projects
 
@@ -26,7 +26,7 @@ Check our
 
 [XIAO nRF52840 & Wio-SX1262 i2C BMP280](XIAO_I2C/Xiao_nRF52840_BMP280.md)
 
-~~~~~~~~~~~
+-------------
 
 ## LoRa
 
@@ -38,6 +38,7 @@ Understanding SNR in a Meshtastic Mesh
 
 Understanding SF and channel presets in a Meshtastic Mesh
 
-~~~~~~~~~~~
+-------------
 
-## [Antenna Builds](AntennaBuilds/README.md)
+### [Antenna Builds](AntennaBuilds/README.md)
+
