@@ -40,5 +40,7 @@ Understanding SF and channel presets in a Meshtastic Mesh
 
 -------------
 
-### [Antenna Builds](AntennaBuilds/README.md)
+## Antenna Builds
+
+[Antenna Builds](AntennaBuilds/README.md)
 
