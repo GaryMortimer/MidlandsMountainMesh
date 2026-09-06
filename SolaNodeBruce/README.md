@@ -2,6 +2,8 @@
 
 A weather-resistant, solar-powered off-grid [Meshtastic](https://meshtastic.org/) relay node built with Seeed Studio hardware and recycled components.
 
+By [Johan Scheepers](https://github.com/JohanScheepers)
+
 ---
 
 ## Hardware Components
