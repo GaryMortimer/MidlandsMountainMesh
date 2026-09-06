@@ -2,6 +2,8 @@
 
 **Purpose:** These settings are the group's standard starting point. The aim is to keep the mesh usable as it grows, avoid unnecessary RF traffic and preserve capacity for normal messaging and emergency/SAR use.
 
+By [Johan Scheepers](https://github.com/JohanScheepers)
+
 1. **BASIC / NEW MEMBER SETUP**
 
 | | |
