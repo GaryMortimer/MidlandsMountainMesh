@@ -2,6 +2,8 @@
 
 Signal-to-Noise Ratio (SNR) measures signal clarity. While RSSI (Received Signal Strength Indicator) measures raw signal strength or "loudness" in dBm, SNR measures how far that signal stands out above background radio static (the noise floor) in decibels (dB).
 
+By [Johan Scheepers](https://github.com/JohanScheepers)
+
 ---
 
 ## The Analogy: Loudness vs. Clarity
