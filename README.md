@@ -45,9 +45,11 @@ Understanding SF and channel presets in a Meshtastic Mesh
 <p align="center">
 
 
-[Johan Scheepers](https://github.com/JohanScheepers)
   <img src="https://github.com/GaryMortimer/MidlandsMountainMesh/blob/main/AntennaBuilds/GainDifferenceBuildings.png" alt="Gain" width="30%">
 </p>
 
 [Antenna Builds](AntennaBuilds/README.md)
 
+
+
+[Johan Scheepers](https://github.com/JohanScheepers)
