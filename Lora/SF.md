@@ -2,6 +2,8 @@
 
 In Meshtastic, Channel Presets (Modem Presets) define how your radio modulates signals over the air. Spreading Factor (SF) is the core setting within those presets that controls the balance between range and transmission speed.
 
+By [Johan Scheepers](https://github.com/JohanScheepers)
+
 ## What is Spreading Factor (SF)?
 
 LoRa radios transmit data using chirps that spread the signal across a frequency band. Spreading Factor (SF7 through SF12) dictates how many chirps are used to encode each symbol of data ($2^{\text{SF}}$ chirps per symbol)
