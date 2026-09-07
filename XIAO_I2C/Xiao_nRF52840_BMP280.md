@@ -2,6 +2,8 @@
 
 A step-by-step guide to setting up a **Seeed Studio XIAO nRF52840** with a **Wio-SX1262** module to transmit environmental telemetry over Meshtastic using a **BMP280** sensor.
 
+By [Johan Scheepers](https://github.com/JohanScheepers)
+
 ---
 
 ## 🛠️ Hardware Requirements
